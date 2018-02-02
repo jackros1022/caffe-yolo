@@ -33,4 +33,5 @@
   cd examples/yolo
   ./test.sh model_path gpu_id
   The model is here (link: https://pan.baidu.com/s/1jHAN6xK password: kvee)
+  已经存到自己的百度云盘
 ```
